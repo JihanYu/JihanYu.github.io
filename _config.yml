@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Jihan Yu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/7805868.jpeg
   bio              : "I am an **amazing** person."
   location         : "Seoul, Korea of Republic"
   email            :
